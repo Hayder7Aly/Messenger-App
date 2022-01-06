@@ -1,5 +1,5 @@
 # Messenger App
-[Live Demo](https://messengerclone-d4793.web.app/]
+[Live Demo](https://messengerclone-d4793.web.app)
 ## Register
 ![alt text](public/1.png)
 ### Message Panel
