@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Poppins";
+  src: url('font/Poppins-Regular.ttf');
+}
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+  font-family: 'Poppins',sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
